@@ -1,0 +1,92 @@
+[
+	{
+		"_id": "5d713995b721c3bb38c1f5d8",
+		"name": "Roxane Spainhour",
+		"email": "oxane@gmail.com",
+		"currentBalance": 55000,
+		"accountNo": 1013456123789428,
+		"age": 48,
+		"gender": "F"
+	},
+	{
+		"_id": "5d713a66ec8f2b88b8f830b8",
+		"name": "Carlos Woodfork",
+		"email": "oodfork@gmail.com",
+		"currentBalance": 40000,
+		"accountNo": 1013456123789512,
+		"age": 42,
+		"gender": "M"
+	},
+	{
+		"_id": "5f7393d26f1ecc2ef503e8b9",
+		"name": "Shad Buzzell",
+		"email": "uzzell@gmail.com",
+		"currentBalance": 62000,
+		"accountNo": 1013456123789751,
+		"age": 45,
+		"gender": "M"
+	},
+	{
+		"_id": "5f7393ead30b3f34b5f617b3",
+		"name": "Rudolf Hartranft",
+		"email": "artranft@gmail.com",
+		"currentBalance": 89000,
+		"accountNo": 1013456123789414,
+		"age": 22,
+		"gender": "M"
+	},
+	{
+		"_id": "5f73943499a813dc7c61469c",
+		"name": " Voncile Southwick ",
+		"email": "outhwick@gmail.com",
+		"currentBalance": 67000,
+		"accountNo": 1013456123752796,
+		"age": 25,
+		"gender": "F"
+	},
+	{
+		"_id": "5f73942f4c2643c123047191",
+		"name": " Carter Avitia ",
+		"email": "vitia@gmail.com",
+		"currentBalance": 40400,
+		"accountNo": 1013456127895216,
+		"age": 28,
+		"gender": "M"
+	},
+	{
+		"_id": "5f73943a4fc6d18fc6f03a0c",
+		"name": "Berry Urbina",
+		"email": "rbina@gmail.com",
+		"currentBalance": 63000,
+		"accountNo": 1013456123789211,
+		"age": 41,
+		"gender": "M"
+	},
+	{
+		"_id": "5f739441183e8f6b931040a2",
+		"name": "Shawn Flagler",
+		"email": "lagler@gmail.com",
+		"currentBalance": 230000,
+		"accountNo": 1013456123789954,
+		"age": 28,
+		"gender": "M"
+	},
+	{
+		"_id": "5f739441183e8f6b931040a4",
+		"name": "Keneth Michaud",
+		"email": "eneth@gmail.com",
+		"currentBalance": 20000,
+		"accountNo": 1013456123789368,
+		"age": 53,
+		"gender": "M"
+	},
+	{
+		"_id": "5f739441183e6f6b931040a2",
+		"name": "Brad Awad",
+		"email": "rad@gmail.com",
+		"currentBalance": 34000,
+		"accountNo": 1013456123789528,
+		"age": 44,
+		"gender": "M"
+    }
+]
