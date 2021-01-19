@@ -8,4 +8,4 @@ A mini banking system.(a codebase for the project given by sparks foundation)
 * npm start
   
 # Demo
-(Banking-sys)[]
+[bankig-sys](https://mybankingsystem.herokuapp.com/)
